@@ -1,0 +1,23 @@
+/*** FONT OVERWRITTEN TO LIGHT ***/
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100 !important;
+}
+
+h1,h2 {
+  font-size: 41px !important;
+}
+.our-cases-area .single-cases .cases-caption h3 a {
+    font-weight: 100 !important;
+}
+
+
+@media only screen and (max-width: 720px) { 
+  .mobile_menu .slicknav_menu .slicknav_btn {
+    position: relative;
+    top: -50px !important;
+  }
+    h1,h2 {
+        font-size: 28px !important;
+    }
+}
+
