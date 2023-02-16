@@ -8,8 +8,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
     <!--meta seo-->
-    <title> CYDT | Center For Youth Development And Transformation </title>
-    <meta name="description" content="CYDT is organisation with a vision to create An empowered, developed and responsible health young people ">
+    <title> Cydt | Center For Youth Development And Transformation </title>
+    <meta name="description" content="Cydt is organisation with a vision to create An empowered, developed and responsible health young people ">
     <meta name="keywords" content="Governance, Health/SRHR, Education, Gender, Advocacy (General), Gender, Human Rights,
         Empowerment, Entrepreneurship">
 
@@ -29,17 +29,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 <body>
-     <!-- ? Preloader Start -->
-     <div id="preloader-active">
-        <div class="preloader d-flex align-items-center justify-content-center">
-            <div class="preloader-inner position-relative">
-                <div class="preloader-circle"></div>
-                <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/loder.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- ? Preloader Start -->
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
@@ -65,16 +55,16 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">                                                                                          
-                                                <li><a href="/">Home</a></li>
-                                                <li><a href="/#about">About</a></li>
-                                                <li><a href="/#events">Project</a></li>
-                                                <li><a href="/#contact">Contact</a></li>
+                                                <li><a href="/">HOME</a></li>
+                                                <li><a href="/#about">ABOUT</a></li>
+                                                <li><a href="/#events">PROJECTS</a></li>
+                                                <li><a href="/#contact">CONTACTS</a></li>
                                             </ul>
                                         </nav>
                                     </div>
                                     <!-- Header-btn -->
                                     <div class="header-right-btn d-none d-lg-block ml-20">
-                                        <a href="donate.blade.php" class="btn header-btn">Donate</a>
+                                        <a href="#donate" class="btn header-btn">DONATE</a>
                                     </div>
                                 </div>
                             </div> 
@@ -199,6 +189,7 @@
                                     <h4>Other CYDT Locations</h4>
                                     <ul>
                                         <li><a href="#">Thyolo</a></li>
+                                        <li><a href="#">Blantyre</a></li>
                                         <li><a href="#">Mulanje</a></li>
                                         <li><a href="#">Neno</a></li>
                                         <li><a href="#">Chikwawa</a></li>
@@ -215,8 +206,8 @@
                                 <div class="footer-tittle">
                                     <h4>Bank Details</h4>
                                     <ul>
-                                        <li><a href="#">Acc #, 23482340834223</a></li>
-                                        <li><a href="#">Branch, Luchenza</a></li>
+                                        <li><a href="#">Standard Bank</a></li>
+                                        <li><a href="#">9100003771013</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -231,10 +222,8 @@
                     <div class="footer-border">
                         <div class="row d-flex justify-content-even">
                             <div class="col">
-                                <div class="footer-copy-right">
-                                    <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        <script>document.write(new Date().getFullYear());</script> developed  <a href="https://bckyrd.io" target="_blank">@bckyrd</a>
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                                <div class="f-left">
+                                    <a href="login">Login</a>
                                 </div>
                             </div>
                             <div class="col">
@@ -244,8 +233,10 @@
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="f-right">
-                                    <a href="login">LOGIN</a>
+                                <div class="footer-copy-right">
+                                    <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        <script>document.write(new Date().getFullYear());</script> Developed  <a href="https://bckyrd.io" target="_blank">@bckyrd</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                                 </div>
                             </div>
                         </div>
@@ -278,27 +269,7 @@
     <script src="assets/js/animated.headline.js"></script>
     <script src="assets/js/jquery.magnific-popup.js"></script>
 
-    <!-- Date Picker -->
-    <script src="assets/js/gijgo.min.js"></script>
-    <!-- Nice-select, sticky -->
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/jquery.sticky.js"></script>
-    <!-- Progress -->
-    <script src="assets/js/jquery.barfiller.js"></script>
-    
-    <!-- counter , waypoint,Hover Direction -->
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/jquery.countdown.min.js"></script>
-    <script src="assets/js/hover-direction-snake.min.js"></script>
 
-    <!-- contact js -->
-    <script src="assets/js/contact.js"></script>
-    <script src="assets/js/jquery.form.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/mail-script.js"></script>
-    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
-    
     <!-- Jquery Plugins, main Jquery -->	
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
